@@ -108,7 +108,7 @@ public class CgtInterface {
         /*
         A test input -
 
-        Mezba
+        Sakib
         75000
         Y
         5000
